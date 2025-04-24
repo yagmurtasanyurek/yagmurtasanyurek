@@ -5,8 +5,6 @@
 - 🌱 Currently sharpening my skills in **React** and **JavaScript**
 - 📍 Based in **İstanbul**
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurtasanyurek&layout=compact)](https://github.com/yagmurtasanyurek/github-readme-stats)
-
 <!---
 yagmurtasanyurek/yagmurtasanyurek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
