@@ -1,4 +1,4 @@
-### Hi, I'm Yağmur!
+### 🖐🏼 Hi, I'm Yağmur!
 
 - 💻 **Self-taught Front-End Developer**
 - 🎓 Studied **French Language and Literature** at the University of Istanbul
