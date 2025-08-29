@@ -1,9 +1,9 @@
 ### 🖐🏼 Hi, I'm Yağmur!
 
--💻 **Self-taught Front-End Developer**
--🎓 Studied **French Language and Literature** at the University of Istanbul
--🌱 Currently sharpening my skills in **React** and **JavaScript**
--📍 Based in **İstanbul**
+- 💻 **Self-taught Front-End Developer**
+- 🎓 Studied **French Language and Literature** at the University of Istanbul
+- 🌱 Currently sharpening my skills in **React** and **JavaScript**
+- 📍 Based in **İstanbul**
 
 ### 🚀 Tech Stack  
 
