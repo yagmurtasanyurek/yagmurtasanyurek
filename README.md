@@ -15,6 +15,9 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
+### 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com)
+- 
 <!---
 yagmurtasanyurek/yagmurtasanyurek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
